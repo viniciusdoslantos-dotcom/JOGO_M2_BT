@@ -47,6 +47,6 @@ Mantenha os recursos equilibrados
 
 Faça a vila crescer o máximo que conseguir
 
-👨‍💻 Feito por
+ Feito por vinicius dis santos, amanda, kaio cezar, mikhael e lucas baron
 
 Projeto criado pra estudo e prática com Unity e C#.
